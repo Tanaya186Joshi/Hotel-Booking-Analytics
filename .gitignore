@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__pycache__/
+# the SQLite file is rebuilt by the notebook (Section 7), so it doesn't need to be committed
+data/cleaned/hotel_bookings.db

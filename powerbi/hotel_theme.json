@@ -1,0 +1,25 @@
+{
+  "name": "Hotel Booking Simple",
+  "dataColors": ["#3B6BA5", "#C0504D", "#A9B2BC", "#6E8FB5", "#E3A19E", "#7A8793"],
+  "background": "#FFFFFF",
+  "foreground": "#2B2B2B",
+  "tableAccent": "#3B6BA5",
+  "textClasses": {
+    "title":   { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#2B2B2B" },
+    "label":   { "fontFace": "Segoe UI", "fontSize": 10, "color": "#4A4A4A" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 24, "color": "#2B2B2B" },
+    "header":  { "fontFace": "Segoe UI Semibold", "fontSize": 10, "color": "#2B2B2B" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#D9DDE1" } } }],
+        "title": [{ "show": true, "fontSize": 12, "fontColor": { "solid": { "color": "#2B2B2B" } } }]
+      }
+    },
+    "page": {
+      "*": { "background": [{ "color": { "solid": { "color": "#F4F5F7" } }, "transparency": 0 }] }
+    }
+  }
+}
