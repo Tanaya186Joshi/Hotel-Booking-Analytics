@@ -4,9 +4,7 @@ I wanted to understand one question properly: **why do hotel bookings get cancel
 
 Some of the early results looked too dramatic (a 99% cancellation rate for non-refundable bookings, for example), so I tried to be careful about which findings I trust and which I only report.
 
-## How I made this
-
-I used an AI assistant (Claude) a lot while working on this project. It wrote the first drafts of most of the code and the written notes, and gave me step-by-step instructions for the Power BI dashboard. I chose the dataset and the project idea, decided how to treat the awkward data (duplicates, outliers, Non Refund), asked for the notebook to be cut down to simple questions I could follow, ran every cell, and built and arranged the dashboard in Power BI Desktop myself. The extra notebook (`notebooks/my_extra_analysis.ipynb`) is a question I picked and made a guess about before looking at the data.
+The extra notebook (`notebooks/my_extra_analysis.ipynb`) is a question I picked and made a guess about before looking at the data.
 
 ## Business problem
 
